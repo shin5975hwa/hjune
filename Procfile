@@ -1,0 +1,1 @@
+web: gunicorn postproject.wsgi --log-file -pip install gunicorn
